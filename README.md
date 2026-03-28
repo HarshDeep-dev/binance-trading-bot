@@ -16,9 +16,11 @@ Usage Examples
 Use the following commands in your terminal to place orders:
 
 Market Order:
+
 python3 cli.py --symbol BTCUSDT --side BUY --order-type MARKET --quantity 0.002
 
 Limit Order:
+
 python3 cli.py --symbol BTCUSDT --side SELL --order-type LIMIT --quantity 0.002 --price 75000
 
 Key Features & Error Handling
