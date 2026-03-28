@@ -1,5 +1,3 @@
-# Binance-trading-bot
-
 
 # Binance Futures Trading Bot (Testnet)
 
