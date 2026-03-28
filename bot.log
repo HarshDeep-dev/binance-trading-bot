@@ -1,0 +1,6 @@
+2026-03-28 17:27:20,927 - INFO - Attempting BUY MARKET for 0.001 BTCUSDT
+2026-03-28 17:27:21,144 - ERROR - Error placing order: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2026-03-28 17:28:25,245 - INFO - Attempting BUY MARKET for 0.002 BTCUSDT
+2026-03-28 17:28:41,563 - INFO - Attempting SELL LIMIT for 0.002 BTCUSDT
+2026-03-28 17:28:41,825 - ERROR - Error placing order: APIError(code=-4024): Limit price can't be lower than 62997.04.
+2026-03-28 17:29:26,393 - INFO - Attempting SELL LIMIT for 0.002 BTCUSDT
